@@ -1,0 +1,5 @@
+rfkill unblock bluetooth
+hciconfig hci0 up
+rfkill list
+bluetoothctl
+

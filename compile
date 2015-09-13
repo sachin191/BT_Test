@@ -1,0 +1,1 @@
+gcc -o bt_test bt_test.c -lbluetooth

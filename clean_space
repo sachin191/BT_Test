@@ -1,0 +1,5 @@
+rm -rf /var/log/journal/* 
+umount /etc/machine-id
+systemd-machine-id-setup
+rm -rf /var/log/journal/*
+reboot

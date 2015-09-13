@@ -1,0 +1,16 @@
+default-agent
+power on
+discoverable on
+pairable on
+agent on
+list 
+show
+scan on
+devices
+pair x:y:z
+trust x:y:z
+connect x:y:z
+info x:y:z
+scan off
+exit
+quit
